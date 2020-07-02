@@ -21,24 +21,24 @@ order: 1
 <div class="row">
 	<!-- Break -->
 	<div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img style="width:250px" src="/assets/images/portraits/prabal-dutta.jpg" alt=""></span>
-        <h3>Prabal Dutta <br/>&nbsp;</h3>
-        <p>Adjunct Associate Professor</p>
+        <span class="image fit"><img class="person-photo" src="/assets/images/portraits/prabal-dutta.jpg" alt=""></span>
+        <div class="person-name">Prabal Dutta</div>
+        <div class="person-title">Adjunct Associate Professor</div>
 	</div>
 	<div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img style="width:250px" src="/assets/images/portraits/eal.jpg" alt=""></span>
-        <h3>Edward A. Lee <br/>&nbsp;</h3>
-        <p>Professor Emeritus, Professor in the Graduate School</p>
+		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/eal.jpg" alt=""></span>
+        <div class="person-name">Edward A. Lee</div>
+        <div class="person-title">Professor Emeritus, Professor in the Graduate School</div>
 	</div>
 	<div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img style="width:250px" src="/assets/images/portraits/sanjit-seshia.jpg" alt=""></span>
-        <h3>Sanjit Seshia <br/>&nbsp;</h3>
-        <p>Professor</p>
+		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/sanjit-seshia.jpg" alt=""></span>
+        <div class="person-name">Sanjit Seshia</div>
+        <div class="person-title">Professor</div>
 	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img style="width:250px" src="/assets/images/portraits/asv.jpg" alt=""></span>
-        <h3>Alberto Sangiovanni-Vincentelli</h3>
-		<p>Edgar L. and Harold H. Buttner Chair Professor</p>
+		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/asv.jpg" alt=""></span>
+        <div class="person-name">Alberto Sangiovanni-Vincentelli</div>
+		<div class="person-title">Edgar L. and Harold H. Buttner Chair Professor</div>
 	</div>
 </div>
 
@@ -48,42 +48,45 @@ order: 1
 <div class="row">
 	<!-- Break -->
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img style="width:250px" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
-        <h3>Ravi Akella</h3>
-        <p>Visiting Industrial Fellow<br/>(Denso)</p>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <div class="person-name">Ravi Akella</div>
+        <div class="person-title">Visiting Industrial Fellow<br/>(Denso)</div>
 	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img style="width:250px" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
-        <h3>Antonio Iannopollo</h3>
-        <p>Research Scientist<br/>(Camozzi Group)</p>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <div class="person-name">Antonio Iannopollo</div>
+        <div class="person-title">Research Scientist<br/>(Camozzi Group)</div>
 	</div>
 </div>
 
-<h2 id="content">Post-doctoral Scholars</h2>
+<hr class="major" />
+
+<h2 id="content">Postdoctoral Researchers</h2>
 
 <div class="row">
 	<!-- Break -->
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img style="width:250px" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
-        <h3>Elizabeth Polgreen</h3>
-        <p>Advised by Prof. Seshia</p>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <div class="person-name">Elizabeth Polgreen</div>
+        <div class="person-title">Advised by Prof. Seshia</div>
 	</div>
 </div>
 
+<hr class="major" />
 
 <h2 id="content">Graduate Students</h2>
 
 <div class="row">
 	<!-- Break -->
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img style="width:250px" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
-        <h3>Shaokai Lin</h3>
-        <p>Co-advised by Prof. Lee and Prof. Seshia</p>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <div class="person-name">Shaokai Lin</div>
+        <div class="person-title">Co-advised by Prof. Lee and Prof. Seshia</div>
 	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img style="width:250px" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
-        <h3>Marten Lohstroh</h3>
-        <p>Advised by Prof. Lee</p>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <div class="person-name">Marten Lohstroh</div>
+        <div class="person-title">Advised by Prof. Lee</div>
 	</div>
 </div>
 

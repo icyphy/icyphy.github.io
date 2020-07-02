@@ -1,0 +1,12 @@
+div.person-name {
+    font-weight: bold;
+    font-size: large;
+}
+
+div.person-title {
+    font-weight: normal;
+}
+
+div.person-photo {
+    width:240px
+}
