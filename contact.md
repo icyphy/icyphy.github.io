@@ -3,6 +3,7 @@ layout: page
 title: Contact
 nav-menu: true
 order: 5
+show_at: home
 ---
 
 <!-- Main -->
