@@ -18,6 +18,12 @@ phone:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+# collections
+collections:
+    publications:
+        output: true
+        permalink: /:collection/:path/
+
 # social settings
 500px_url:
 facebook_url:
