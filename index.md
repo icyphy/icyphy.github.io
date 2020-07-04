@@ -14,7 +14,7 @@ The CPS intellectual challenge is about the intersection, not the union, of the 
 
 ICyPhy is a collaborative effort between academia in the [EECS Department at UC Berkeley](https://eecs.berkeley.edu/) and industry. ICyPhy [member companies]() provide financial support for research projects, interact collaboratively with researchers, and commercialize research results.
 
-ICyPhy is committed to open [publication](pubs) and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.
+ICyPhy is committed to open [publication](publications.html) and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.
 
 Specific current research directions include:
 
