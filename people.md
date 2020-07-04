@@ -69,7 +69,7 @@ show_at: home
     <div class="3u 6u(small) 12u$(xsmall)">
         <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
         <div class="person-name">Elizabeth Polgreen</div>
-        <div class="person-title">Advised by Prof. Seshia</div>
+        <div class="person-title">Advisor: Prof. Seshia</div>
 	</div>
 </div>
 
@@ -82,12 +82,12 @@ show_at: home
     <div class="3u 6u(small) 12u$(xsmall)">
         <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
         <div class="person-name">Shaokai Lin</div>
-        <div class="person-title">Co-advised by Prof. Lee and Prof. Seshia</div>
+        <div class="person-title">Advisors: Prof. Lee and Prof. Seshia</div>
 	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
         <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
         <div class="person-name">Marten Lohstroh</div>
-        <div class="person-title">Advised by Prof. Lee</div>
+        <div class="person-title">Advisor: Prof. Lee</div>
 	</div>
 </div>
 
