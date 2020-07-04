@@ -49,12 +49,12 @@ show_at: home
 <div class="row">
 	<!-- Break -->
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
         <div class="person-name">Ravi Akella</div>
         <div class="person-title">Visiting Industrial Fellow<br/>(Denso)</div>
 	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
         <div class="person-name">Antonio Iannopollo</div>
         <div class="person-title">Research Scientist<br/>(Camozzi Group)</div>
 	</div>
@@ -67,7 +67,7 @@ show_at: home
 <div class="row">
 	<!-- Break -->
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
         <div class="person-name">Elizabeth Polgreen</div>
         <div class="person-title">Advisor: Prof. Seshia</div>
 	</div>
@@ -80,12 +80,12 @@ show_at: home
 <div class="row">
 	<!-- Break -->
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
         <div class="person-name">Shaokai Lin</div>
         <div class="person-title">Advisors: Prof. Lee and Prof. Seshia</div>
 	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/pic08.jpg %}" alt="" /></span>
+        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
         <div class="person-name">Marten Lohstroh</div>
         <div class="person-title">Advisor: Prof. Lee</div>
 	</div>
