@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Visiting
-nav-menu: true
 order: 2
 show_at: membership
 ---

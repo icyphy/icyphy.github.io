@@ -5,11 +5,9 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}" class="logo"><img class="logo" src="assets/images/iCyPhyLogoLight.png"/></a> <!-- <strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span> --!>
 	<nav>
-        {% assign nav_items = "People, Projects, Publications, Membership, Contact" | split: ", " %}
-        {% for page in site.pages %}
-            {% if nav_items contains page.title %}
-                <a href="{{ page.url }}"/>{{ page.title }}</a>
-            {% endif %}
+        {% assign nav_items = site.pages | where: "nav-menu", "true" | sort: "order" %}
+        {% for page in nav_items %}
+            <a href="{{ page.url }}"/>{{ page.title }}</a>
         {% endfor %}
 	</nav>
 </header>

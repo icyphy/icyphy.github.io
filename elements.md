@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Elements
-nav-menu: true
 order: 3
 show_tile: false
 ---

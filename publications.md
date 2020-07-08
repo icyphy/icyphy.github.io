@@ -4,7 +4,7 @@ layout: page
 description: 'Publications from iCyPhy.'
 image: assets/images/pic07.jpg
 nav-menu: true
-order: 2
+order: 3
 show_at: home
 ---
 

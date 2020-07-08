@@ -6,7 +6,8 @@ description: null
 image: null
 author: null
 show_tile: true
-order: 3
+order: 4
+nav-menu: true
 show_at: home
 ---
 
