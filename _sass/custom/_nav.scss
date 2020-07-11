@@ -1,0 +1,20 @@
+// Dynamically render navbar based on screen size
+@media only screen and (max-width: 980px) {
+    #nav-expanded {
+        display: none !important;
+    }
+}
+
+@media only screen and (min-width: 980px) {
+    #nav-compact {
+        display: none !important;
+    }
+}
+
+// Resize logo
+#header {
+    .logo {
+        height: 87%;
+        vertical-align: middle;
+    }
+}

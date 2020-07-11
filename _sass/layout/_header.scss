@@ -69,6 +69,15 @@
 			height: inherit;
 			line-height: inherit;
 
+            // Dynamically switch between expanded and compact nav
+            /*
+            @media only screen and (max-width: 1026px) {
+                #nav-expanded {
+                    display: none !important;
+                }
+            }
+            */
+
 			a {
 				border: 0;
 				display: block;
