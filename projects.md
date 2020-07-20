@@ -15,9 +15,9 @@ show_at: home
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>iCyPhy Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+				<p>Lingua Franca projects are open, collaborative efforts, often directly involving personnel	 from member companies. ICyPhy is committed to open [publication](publications.html) and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
 	</div>
 </section>
 
@@ -25,16 +25,17 @@ show_at: home
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/projects/LinguaFranca.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Lingua Franca</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+		<p>Lingua Franca is a polyglot coordination language with an explicit model of time, more deterministic concurrency, and support for efficient, fault-tolerant, distributed applications. In Lingua Franca, components called reactors (for "actors revisited") execute under a deterministic, discrete-event model of computation that combines the best features of actors, synchronous languages, and discrete-event models. The functionality of a reactor is written in an unmodified target language (currently C, C++, or TypeScript).</p>
+		<p>Using the C target, the Lingua Franca compiler generates extremely efficient, low footprint embedded C code that can execute on an embedded bare-iron platform or on a high-end multicore microprocessor, transparently exploiting application parallelism using multiple cores and realizing earliest-deadline-first (EDF) scheduling. With the TypeScript target, seamless integration with the Node.js ecosystem offers a wealth of high-level IoT capabilities.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/icyphy/lingua-franca/wiki" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
