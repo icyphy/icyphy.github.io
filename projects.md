@@ -17,7 +17,7 @@ show_at: home
 		<header class="major">
 			<h2>iCyPhy Projects</h2>
 		</header>
-				<p>Lingua Franca projects are open, collaborative efforts, often directly involving personnel	 from member companies. ICyPhy is committed to open [publication](publications.html) and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
+				<p>Lingua Franca projects are open, collaborative efforts, often directly involving personnel	 from member companies. ICyPhy is committed to open <a href="publications.html">publication</a> and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
 	</div>
 </section>
 
