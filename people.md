@@ -24,7 +24,7 @@ show_at: home
 	<div class="3u 6u(small) 12u$(xsmall)">
         <span class="image fit"><img class="person-photo" src="/assets/images/portraits/prabal-dutta.jpg" alt=""></span>
         <div class="person-name">Prabal Dutta</div>
-        <div class="person-title">Adjunct Associate Professor</div>
+        <div class="person-title">Associate Professor</div>
 	</div>
 	<div class="3u 6u(small) 12u$(xsmall)">
 		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/eal.jpg" alt=""></span>
