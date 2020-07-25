@@ -31,17 +31,18 @@ show_at: home
         <div class="person-name">Edward A. Lee</div>
         <div class="person-title">Professor Emeritus, Professor in the Graduate School</div>
 	</div>
-	<div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/sanjit-seshia.jpg" alt=""></span>
-        <div class="person-name">Sanjit Seshia</div>
-        <div class="person-title">Professor</div>
-	</div>
     <div class="3u 6u(small) 12u$(xsmall)">
 		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/asv.jpg" alt=""></span>
         <div class="person-name">Alberto Sangiovanni-Vincentelli</div>
 		<div class="person-title">Edgar L. and Harold H. Buttner Chair Professor</div>
 	</div>
+	<div class="3u 6u(small) 12u$(xsmall)">
+		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/sanjit-seshia.jpg" alt=""></span>
+        <div class="person-name">Sanjit Seshia</div>
+        <div class="person-title">Professor</div>
+	</div>
 </div>
+
 
 <hr class="major" />
 
