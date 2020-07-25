@@ -2,7 +2,6 @@
 layout: page
 title: Visiting
 order: 2
-show_at: membership
 ---
 
 <!-- Main -->
@@ -12,11 +11,10 @@ show_at: membership
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Visiting</h1>
+			<h1>Visiting Industrial Fellows in iCyPhy</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Visiting Industrial Fellows in the iCyPhy Center</h2>
 <p>We believe that the best way to transition technology is through the exchange of personnel. In order to facilitate this exchange, provisions for a Visiting Industrial Fellow (VIF) are provided for Parters and Premium Partners.</p>
 
 <p>A VIF is a full-time employee of the Company, paid by the Company, with health insurance and other benefits provided by the Company, who participates in research projects supported with iCyPhy funds at the University of California, Berkeley. If the Company is a member at the Partner or Premium Partner level, then it may request that one VIF participate in iCyPhy at any given time. The Company may nominate a VIF, and iCyPhy approves the nomination if the individual is qualified to participate in iCyPhy research. The VIF will be required to sign the University VIF agreement, which is included in the Industrial Membership Agreement. The Company may request additional VIFs participate in iCyPhy, and iCyPhy will review the request.</p>

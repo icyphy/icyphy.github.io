@@ -11,6 +11,11 @@ nav-menu: true
 show_at: home
 ---
 
+
+<header class="major">
+	<h1>iCyPhy Membership</h1>
+</header>
+	
 The iCyPhy Center is interested in forming and maintaining meaningful relationships with industry, small businesses, and government agencies. Solidification of the research interests of a member of the Center is done through a membership agreement that outlines the roles of the member and university through the period of the relationship.
 
 Our goal as a Center is to find interested partners who have identified iCyPhy as a general research area, and are willing to start a relationship based on the iCyPhy research goals and the benefits received through interaction. iCyPhy members have access to world-class researchers and visionaries, and can leverage government-funded research that is performed by the Center. They receive feedback on the progress of the Center through formal reviews and participate in the setting of goals and research directions.
