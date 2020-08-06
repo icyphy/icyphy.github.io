@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Industrial Cyber-Physical Systems Center'
+landing-title: 'Industrial Cyber-Physical Systems'
 description: null
 image: null
 author: null
