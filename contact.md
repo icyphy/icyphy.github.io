@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+image: assets/images/contact.jpg
 nav-menu: true
 order: 5
 show_at: home

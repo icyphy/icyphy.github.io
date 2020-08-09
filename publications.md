@@ -2,7 +2,7 @@
 title: Publications
 layout: page
 description: 'Publications from iCyPhy.'
-image: assets/images/pic07.jpg
+image: assets/images/publications.jpg
 nav-menu: true
 order: 3
 show_at: home

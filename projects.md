@@ -2,7 +2,7 @@
 title: Projects
 layout: page
 description: 'Overview of active projects.'
-image: assets/images/pic07.jpg
+image: assets/images/projects3.jpg
 nav-menu: true
 order: 2
 show_at: home
