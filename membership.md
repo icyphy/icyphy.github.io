@@ -2,7 +2,7 @@
 layout: page
 title: Membership
 landing-title: 'iCyPhy Membership'
-description: null
+# description: Forming and maintaining meaningful relationships with industry,<br/> small businesses, and government agencies. 
 image: null
 author: null
 show_tile: true
