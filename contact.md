@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: landing
 title: Contact
-image: assets/images/contact.jpg
+image: assets/images/projects2.jpg
 nav-menu: true
 order: 5
 show_at: home
@@ -10,17 +10,7 @@ show_at: home
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Contact</h1>
-		</header>
 
-
-
-</div>
-</section>
 
 </div>
 

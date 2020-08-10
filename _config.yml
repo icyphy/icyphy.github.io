@@ -1,7 +1,7 @@
 # site settings
 title: iCyPhy
 subtitle: Industrial Cyber-Physical Systems
-email: youremailaddress@gmail.com
+email: info@icyphy.org
 description: Pre-competitive research on architectures and design,<br/> modeling, and analysis techniques for cyber-physical systems,<br/> with emphasis on industrial applications.
 description-membership: Forming and maintaining meaningful relationships with industry,<br/> small businesses, and government agencies. 
 baseurl: # the subpath of your site, e.g. /blog
@@ -16,7 +16,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # collections
 collections:

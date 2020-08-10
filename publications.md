@@ -1,11 +1,10 @@
 ---
 title: Publications
-layout: page
+layout: landing
 description: 'Publications from iCyPhy.'
 image: assets/images/publications.jpg
 nav-menu: true
 order: 3
-show_at: home
 ---
 
 <div class="main">

@@ -1,11 +1,10 @@
 ---
 title: Projects
-layout: page
-description: 'Overview of active projects.'
+layout: landing
+description: 'Current iCyPhy projects.'
 image: assets/images/projects3.jpg
 nav-menu: true
 order: 2
-show_at: home
 ---
 
 <!-- Main -->
@@ -14,10 +13,7 @@ show_at: home
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>iCyPhy Projects</h1>
-		</header>
-				<p>iCyPhy projects are open, collaborative efforts, often directly involving personnel from member companies. ICyPhy is committed to open <a href="publications.html">publication</a> and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
+				<p>iCyPhy projects are open, collaborative efforts, often directly involving personnel from member companies. iCyPhy is committed to open <a href="publications.html">publication</a> and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
 	</div>
 </section>
 

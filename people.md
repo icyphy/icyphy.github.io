@@ -3,7 +3,6 @@ layout: page
 title: People
 nav-menu: true
 order: 1
-show_at: home
 ---
 
 <!-- Main -->

@@ -12,7 +12,7 @@ The goal of iCyPhy (pronounced _eye-sigh-fie_) is to conduct pre-competitive res
 
 The CPS intellectual challenge is about the intersection, not the union, of the physical and the cyber. This intersection combines engineering models and methods from mechanical, environmental, civil, electrical, biomedical, chemical, aeronautical and industrial engineering with the models and methods of computer science and engineering. iCyPhy research is founded on the conviction that these models and methods do not combine easily, and that consequently CPS constitutes a new engineering discipline that demands its own models and methods.
 
-ICyPhy is a collaborative effort between academia in the [EECS Department at UC Berkeley](https://eecs.berkeley.edu/) and industry. ICyPhy [member companies]() provide financial support for research projects, interact collaboratively with researchers, and commercialize research results.
+ICyPhy is a collaborative effort between academia in the [EECS Department at UC Berkeley](https://eecs.berkeley.edu/) and industry. ICyPhy [member companies](membership.html) provide financial support for research projects, interact collaboratively with researchers, and commercialize research results.
 
 Specific current research directions include:
 
