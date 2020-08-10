@@ -27,7 +27,7 @@ order: 1
         <div class="person-title">Associate Professor</div>
 	</div>
 	<div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/eal2.jpg" alt=""></span>
+		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/eal.jpg" alt=""></span>
         <div class="person-name">Edward A. Lee</div>
         <div class="person-title">Professor Emeritus, Professor in the Graduate School</div>
 	</div>
