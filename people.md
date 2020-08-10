@@ -15,85 +15,56 @@ order: 1
 		<header class="major">
 			<h1>People</h1>
 		</header>
-
-<!-- Content -->
-<h2 id="content">Principal Investigators</h2>
-
-<div class="row">
-	<!-- Break -->
-	<div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="/assets/images/portraits/prabal-dutta.jpg" alt=""></span>
-        <div class="person-name">Prabal Dutta</div>
-        <div class="person-title">Associate Professor</div>
-	</div>
-	<div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/eal.jpg" alt=""></span>
-        <div class="person-name">Edward A. Lee</div>
-        <div class="person-title">Professor Emeritus, Professor in the Graduate School</div>
-	</div>
-    <div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/asv.jpg" alt=""></span>
-        <div class="person-name">Alberto Sangiovanni-Vincentelli</div>
-		<div class="person-title">Edgar L. and Harold H. Buttner Chair Professor</div>
-	</div>
-	<div class="3u 6u(small) 12u$(xsmall)">
-		<span class="image fit"><img class="person-photo" src="/assets/images/portraits/sanjit-seshia.jpg" alt=""></span>
-        <div class="person-name">Sanjit Seshia</div>
-        <div class="person-title">Professor</div>
-	</div>
-</div>
-
-
-<hr class="major" />
-
-<h2 id="content">Industrial Fellows</h2>
-<div class="row">
-	<!-- Break -->
-    <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
-        <div class="person-name">Ravi Akella</div>
-        <div class="person-title">Visiting Industrial Fellow<br/>(Denso)</div>
-	</div>
-    <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
-        <div class="person-name">Antonio Iannopollo</div>
-        <div class="person-title">Research Scientist<br/>(Camozzi Group)</div>
-	</div>
-</div>
-
-<hr class="major" />
-
-<h2 id="content">Postdoctoral Researchers</h2>
-
-<div class="row">
-	<!-- Break -->
-    <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
-        <div class="person-name">Elizabeth Polgreen</div>
-        <div class="person-title">Advisor: Prof. Seshia</div>
-	</div>
-</div>
-
-<hr class="major" />
-
-<h2 id="content">Graduate Students</h2>
-
-<div class="row">
-	<!-- Break -->
-    <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
-        <div class="person-name">Shaokai Lin</div>
-        <div class="person-title">Advisors: Prof. Lee and Prof. Seshia</div>
-	</div>
-    <div class="3u 6u(small) 12u$(xsmall)">
-        <span class="image fit"><img class="person-photo" src="{% link assets/images/portraits/placeholder.png %}" alt="" /></span>
-        <div class="person-name">Marten Lohstroh</div>
-        <div class="person-title">Advisor: Prof. Lee</div>
-	</div>
-</div>
-
-
-</div>
-</section>
+        <!-- PIs -->
+        <h2 id="content">Principal Investigators</h2>
+        {% assign group = site.people | where_exp: "item", "item.role == 'pi'" | sort:"last_name"%}
+        {% assign rows = group.size | divided_by: 4.0 | ceil %}
+        {% for i in (1..rows) %}
+        {% assign offset = forloop.index0 | times: 4 %}
+        <div class= "row">
+            {% for post in group limit:4 offset:offset %}
+            {% include person_entry.html %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+        <hr class="major" />
+        <!-- VIFs -->
+        <h2 id="content">Industrial Fellows</h2>
+        {% assign group = site.people | where_exp: "item", "item.role == 'vif'" | sort:"last_name"%}
+        {% assign rows = group.size | divided_by: 4.0 | ceil %}
+        {% for i in (1..rows) %}
+        {% assign offset = forloop.index0 | times: 4 %}
+        <div class= "row">
+            {% for post in group limit:4 offset:offset %}
+            {% include person_entry.html %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+        <hr class="major" />
+        <!-- Postdocs -->
+        <h2 id="content">Postdoctoral Researchers</h2>
+        {% assign group = site.people | where_exp: "item", "item.role == 'postdoc'" | sort:"last_name"%}
+        {% assign rows = group.size | divided_by: 4.0 | ceil %}
+        {% for i in (1..rows) %}
+        {% assign offset = forloop.index0 | times: 4 %}
+        <div class= "row">
+            {% for post in group limit:4 offset:offset %}
+            {% include person_entry.html %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+        <hr class="major" />
+        <!-- Grads -->
+		<h2 id="content">Graduate Students</h2>
+		{% assign group = site.people | where_exp: "item", "item.role == 'grad'" | sort:"last_name"%}
+        {% assign rows = group.size | divided_by: 4.0 | ceil %}
+        {% for i in (1..rows) %}
+        {% assign offset = forloop.index0 | times: 4 %}
+        <div class= "row">
+            {% for post in group limit:4 offset:offset %}
+            {% include person_entry.html %}
+            {% endfor %}
+        </div>
+        {% endfor %}
 
 </div>

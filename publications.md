@@ -13,10 +13,17 @@ order: 3
 		<header class="major">
 			<h2>Featured Publications</h2>
 		</header>
-		{% assign sorted = site.publications | sort: 'date' | reverse %}
-		{% for post in sorted %}
-		  {% include pub_entry.html %}
-		{% endfor %}
+
+{% assign rows = site.people.size | divided_by: 4.0 | ceil %}
+{% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 4 %}
+  <div class= "row">
+    {% for post in site.posts limit:4 offset:offset %}
+      {% include person_entry.html %}
+    {% endfor %}
+  </div>
+{% endfor %}
+
 
 	</div>
 </div>

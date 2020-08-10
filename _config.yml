@@ -22,7 +22,10 @@ collections:
     publications:
         output: true
         permalink: /:collection/:path/
-
+    people:
+        output: true
+        permalink: /:collection/:path/
+        
 # social settings
 500px_url:
 facebook_url:
