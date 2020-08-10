@@ -2,6 +2,7 @@
 layout: page
 title: People
 nav-menu: true
+description: iCyPhy Center Personnel
 order: 1
 ---
 

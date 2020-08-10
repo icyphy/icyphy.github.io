@@ -30,7 +30,7 @@ nav-menu: true
         <p>iCyPhy researchers are interested in maximizing the impact of their research. To achieve this, iCyPhy maintains an open atmosphere that encourages early and frequent publication and other public dissemination of research results. The emphasis is on open collaborative projects with multiple participants (and often, multiple funding sources). Members do not expect to get exclusive access to intellectual property, software, or research data. Instead, they get access to insights about trends and opportunities, foundational theories and techniques, open-source software, and people.</p>
 
         <h2>How does my company join?</h2>
-        <p>In order to become a iCyPhy Member, your first step is to begin a conversation with one of the Principal Investigators or the Executive Director, see iCyPhy Center Personnel. After beginning this conversation, we will work with you to choose the appropriate level of interaction for your company, and then finalize the membership agreement.</p>
+        <p>In order to become a iCyPhy Member, your first step is to begin a conversation with one of the Principal Investigators or the Executive Director, see <a href="people.html">iCyPhy Center Personnel</a>. After beginning this conversation, we will work with you to choose the appropriate level of interaction for your company, and then finalize the membership agreement.</p>
 
         <h2>Length of Membership</h2>
         <p>When becoming a member of iCyPhy we encourage a length of 5 years, with the option to end the agreement at the end of each year. The reason for this length is to avoid institutional delays each year, thus providing more time for research and relationships.</p>

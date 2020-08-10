@@ -2,6 +2,7 @@
 title: iCyPhy
 subtitle: Industrial Cyber-Physical Systems
 email: info@icyphy.org
+description: Pre-competitive research on architectures and design,<br/> modeling, and analysis techniques for cyber-physical systems,<br/> with emphasis on industrial applications.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://icyphy.github.io # the base hostname & protocol for your site
 author:

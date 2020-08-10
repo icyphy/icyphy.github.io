@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: landing
-description: 'Publications from iCyPhy.'
+description: 'Publications from iCyPhy'
 image: assets/images/publications.jpg
 nav-menu: true
 order: 3

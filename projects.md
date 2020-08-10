@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'Current iCyPhy projects.'
+description: 'Current iCyPhy projects'
 image: assets/images/projects3.jpg
 nav-menu: true
 order: 2
