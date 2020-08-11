@@ -44,3 +44,11 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+default:
+  -
+    scope:
+      path: ""
+      type: publications
+    values:
+      layout: post 

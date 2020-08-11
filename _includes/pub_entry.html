@@ -1,8 +1,7 @@
 <p>
 <a href="{{base_path}}{{post.url}}"><b>{{ post.title }}</b></a><br>
-<b>Conference/Journal</b>: {{ post.venue }} <br>
-<b>Publication Date</b>: {{ post.date | date: "%B %d, %Y"}} <br>
+<b>Conference/Journal</b>: {{ post.journal }} <br>
+<b>Publication Date</b>: {% if post.month != nil %} {{post.month | append: ", "}} {% endif %}{{ post.year }} <br>
 <b>Author(s)</b>: {{ post.author }} <br>
-[<a href="{{post.preprinturl}}"><b>Download</b></a>] <br>
 <hr>
 </p>
