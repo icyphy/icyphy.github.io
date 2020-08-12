@@ -24,7 +24,7 @@
     float: left;
     z-index:3;
     position:relative;
-    height:50px;
+    height:42px;
     vertical-align: bottom;
 }
 
@@ -41,5 +41,13 @@
 
 #footer-logo {
     float:right;
-    height: 40px;
+    height: 46px;
+}
+
+#bottom-div {
+    float: left;
+    position:absolute;
+    padding-top:78px;
+    margin:0px auto;
+    display: table;
 }
