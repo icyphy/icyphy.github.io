@@ -1,0 +1,14 @@
+---
+collection: publications
+url: 'http://icyphy.org/publications/Xu13_FormalMethodsForControlSynthesis'
+abstract: '(No abstract.)'
+note: 'Presented at the <ahref="/conferences/13/watson/index.htm" >iCyPhyJune 2013 F2F Mid Year Review, IBM YorktownHeights: June 18 &amp; 19, 2013</a>.'
+year: '2013'
+month: 'June'
+day: '19'
+title: 'Formal Methods for Control Synthesis'
+author: 'Mumu Xu'
+ENTRYTYPE: 'presentation'
+ID: 'Xu13_FormalMethodsForControlSynthesis'
+paperurl: []
+---

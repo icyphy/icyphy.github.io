@@ -1,0 +1,14 @@
+---
+collection: publications
+url: 'http://icyphy.org/publications/Ozay12_AircraftElectricPowerSystemChallengeProblem'
+abstract: '(No abstract.)'
+note: 'Presented at the <ahref="http://www.icyphy.org/conferences/12/kickoff/index.htm">iCyPhyKickoff</a>, November 29 & 30, 2012, Berkeley.'
+year: '2012'
+month: 'November'
+day: '28'
+title: 'Aircraft Electric Power System Challenge Problem'
+author: 'Necmiye Ozay'
+ENTRYTYPE: 'presentation'
+ID: 'Ozay12_AircraftElectricPowerSystemChallengeProblem'
+paperurl: []
+---

@@ -1,0 +1,14 @@
+---
+collection: publications
+url: 'http://icyphy.org/publications/Nuzzo13_CyberPhysicalSystemDesignSpaceExplorationMethodology'
+abstract: '(No abstract.)'
+note: 'Presented at the <ahref="/icyphy/wiki/Main/2013October16ResearchMeeting">October 16, 2013 iCyPhy Research Meeting</a> atUTAS Hartford/Windsor Locks.'
+year: '2013'
+month: 'October'
+day: '16'
+title: 'Cyber-Physical System Design Space Exploration: Methodology and Tools'
+author: 'Pierluigi Nuzzo'
+ENTRYTYPE: 'presentation'
+ID: 'Nuzzo13_CyberPhysicalSystemDesignSpaceExplorationMethodology'
+paperurl: []
+---

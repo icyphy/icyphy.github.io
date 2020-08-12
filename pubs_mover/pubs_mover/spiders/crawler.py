@@ -2,10 +2,10 @@ import scrapy
 import bibtexparser
 import os
 import re
+from bibtexparser.bparser import BibTexParser
 
 class IcyphySpider(scrapy.Spider):
     name = 'icyphy'
-    '''
     start_urls = ['https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2018.html',
                   'https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2017.html',
                   'https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2016.html',
@@ -13,8 +13,7 @@ class IcyphySpider(scrapy.Spider):
                   'https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2014.html',
                   'https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2013.html',
                   'https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2012.html']
-    '''
-    start_urls = ['https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2017.html']
+    # start_urls = ['https://ptolemy.berkeley.edu/projects/icyphy/pubs/search/2017.html']
 
     # This also generate Request for sidebar buttons.
     # But it is fine since they do not have <pre> tags.
@@ -27,10 +26,16 @@ class IcyphySpider(scrapy.Spider):
 
     # Parse BibTex and generate .md file with respective fields
     def parse_pub(self, response):
+        
+        # Declare a custom parser to accept @presentation
+        parser = BibTexParser()
+        parser.ignore_nonstandard_types = False
+
         for citation in response.css('li pre'):
             pre = citation.css('pre::text').get()
-            if "@article" in pre:
-                bib = bibtexparser.loads(pre).entries_dict
+            # print(pre)
+            if "@article" in pre or "@presentation" in pre:
+                bib = bibtexparser.loads(pre, parser).entries_dict
                 print(bib)
 
                 # Search for links
