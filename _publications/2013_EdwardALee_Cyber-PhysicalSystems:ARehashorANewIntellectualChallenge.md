@@ -1,0 +1,14 @@
+---
+collection: publications
+url: 'http://icyphy.org/publications/Lee13_CyberPhysicalSystemsARehashOrNewIntellectualChallenge'
+abstract: '(No abstract.)'
+note: 'Invited Talk in the Distinguished Speaker Series,sponsored by the IEEE Council on Electronic DesignAutomation (CEDA) held at the Design AutomationConference (DAC), Austin, Texas.'
+year: '2013'
+month: 'June'
+day: '4'
+title: 'Cyber-Physical Systems:A Rehash or A NewIntellectual Challenge?'
+author: 'Edward A. Lee'
+ENTRYTYPE: 'presentation'
+ID: 'Lee13_CyberPhysicalSystemsARehashOrNewIntellectualChallenge'
+paperurl: []
+---

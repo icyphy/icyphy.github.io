@@ -5,3 +5,5 @@ _site/
 Gemfile.lock
 *.gem
 *.swp
+**/*.pyc
+**/__pycache__/

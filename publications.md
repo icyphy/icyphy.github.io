@@ -13,7 +13,7 @@ order: 3
 		<header class="major">
 			<h2>Featured Publications</h2>
 		</header>
-		{% assign sorted = site.publications | sort: 'date' | reverse %}
+		{% assign sorted = site.publications | sort: 'year' | reverse %}
 		{% for post in sorted %}
 		  {% include pub_entry.html %}
 		{% endfor %}

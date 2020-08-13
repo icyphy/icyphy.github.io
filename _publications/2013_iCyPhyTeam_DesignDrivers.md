@@ -1,0 +1,14 @@
+---
+collection: publications
+url: 'http://icyphy.org/publications/Team13_DesignDrivers'
+abstract: '(No abstract.)'
+note: 'iCyPhy Executive Review, Almaden Research Center,San Jose, CA.'
+year: '2013'
+month: 'April'
+day: '3'
+title: 'Design Drivers'
+author: 'iCyPhy Team'
+ENTRYTYPE: 'presentation'
+ID: 'Team13_DesignDrivers'
+paperurl: []
+---

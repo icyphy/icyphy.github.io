@@ -1,0 +1,14 @@
+---
+collection: publications
+url: 'http://icyphy.org/publications/Lee17_AccessorsSoftwareArchitectureForIoT'
+abstract: 'Cyber-physical systems are integrations ofcomputation, communication networks, and physicaldynamics. Applications include aircraft,manufacturing, transportation, energy productionand distribution, biomedical, smart buildings,automobiles, and military systems, to name a few.Increasingly, today, such systems leverageInternet technology, despite a significantmismatch in technical objectives. A majorchallenge today is to make this technologyreliable, predictable, and controllable enough for"important" things, such as safety-critical andmission-critical systems. In this talk, I willoutline an effort at Berkeley to develop an openarchitecture for composition of things andservices that can improve composability andpredictability. In particular, I examine the rolethat deterministic models, particularly withregard to timing, can play in an increasinglynondeterministic environment.'
+note: 'Presented at Google.'
+year: '2017'
+month: 'March'
+day: '30'
+title: 'Accessors: A Software Architecture for IoT'
+author: 'Edward A. Lee'
+ENTRYTYPE: 'presentation'
+ID: 'Lee17_AccessorsSoftwareArchitectureForIoT'
+paperurl: ['https://ptolemy.berkeley.edu/projects/icyphy/pubs/73/Lee_Accessors_Google.pdf']
+---
