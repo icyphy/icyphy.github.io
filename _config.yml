@@ -45,10 +45,10 @@ markdown: kramdown
 sass:
   style: compressed
 
-default:
+defaults:
   -
     scope:
       path: ""
       type: publications
     values:
-      layout: post 
+      layout: pub 
