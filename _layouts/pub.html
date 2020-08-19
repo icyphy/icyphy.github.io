@@ -76,11 +76,11 @@ page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %
 @{{ page.ENTRYTYPE }}&#123;{{ page.ID }},
 &#9;author = &#123;{{ page.author }}&#125;,
 &#9;title = &#123;{{ page.title }}&#125;,
-{%- if page.journal -%}<br>&#9;journal = &#123;{{ page.journal }}&#125;,<br>{%- endif -%}
-{%- if page.volume -%}&#9;volume = &#123;{{ page.volume }}&#125;,<br>{%- endif -%}
-{%- if page.number -%}&#9;number = &#123;{{ page.number }}&#125;,<br>{%- endif -%}
-{%- if page.pages -%}&#9;pages = &#123;{{page.pages }}&#125;,<br>{%- endif -%}
-{%- if page.month -%}&#9;month = &#123;{{ page.month }}&#125;,<br>{%- endif -%}
+{%- if page.journal -%}<br>&#9;journal = &#123;{{ page.journal }}&#125;,{%- endif -%}
+{%- if page.volume -%}<br>&#9;volume = &#123;{{ page.volume }}&#125;,{%- endif -%}
+{%- if page.number -%}<br>&#9;number = &#123;{{ page.number }}&#125;,{%- endif -%}
+{%- if page.pages -%}<br>&#9;pages = &#123;{{page.pages }}&#125;,{%- endif -%}
+{%- if page.month -%}<br>&#9;month = &#123;{{ page.month }}&#125;,<br>{%- endif -%}
 &#9;year = &#123;{{ page.year }}&#125;,
 &#9;abstract = &#123;{{ page.abstract }}&#125;,
 &#9;URL = &#123;{{ site.url }}{{ page.url }}&#125;
