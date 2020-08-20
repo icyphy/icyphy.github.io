@@ -10,8 +10,6 @@ show_at: home
 <!-- Main -->
 <div id="main" class="alt">
 
-
-
 </div>
 
 {% include contact_form.html %}
