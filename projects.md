@@ -53,7 +53,7 @@ order: 2
 	</section>
 	<section>
 		<a href="https://en.wikipedia.org/wiki/Montparnasse_derailment" class="image">
-			<img src="{% link assets/images/projects/Train_wreck_at_Montparnasse_1895.jpg %}" alt="Train wreck at Gare Montparnasse in 1895" data-position="top center" />
+			<img src="{% link assets/images/projects/uclid5.jpg %}" alt="Train wreck at Gare Montparnasse in 1895" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
