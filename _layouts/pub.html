@@ -39,12 +39,14 @@
         </p>
 
         <!-- Download Links -->
+        {% if page.paperurl.size > 0 %}
         <b>Electronic Downloads</b><br>
         <ul>
         {% for l in page.paperurl %}
             <li><a href="{{ l }}" target="_blank">{{ l }}</a></li>
         {% endfor %}
         </ul>
+        {% endif %}
 
         <hr>
         <h3>Citation Formats</h3>
