@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/Nouvellet17_DiscoveryProject'
 abstract: '(No abstract.)'
 note: 'Presented at the Ptolemy Group Lunch, Universityof California Berkeley.'
 year: '2017'

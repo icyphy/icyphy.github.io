@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/Derler14_AspectOrientedModeling'
 abstract: '(No abstract.)'
 year: '2014'
 month: 'August'

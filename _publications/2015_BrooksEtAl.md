@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/BrooksLeeLorenzettiNouiduiWetter15_DemoCyPhySimCyberPhysicalSystemsSimulator'
 abstract: 'This demo provides a preview of a pre-releaseversion of CyPhySim, an open-source simulator forcyber-physical systems. This simulator supportsdiscrete-event models, quantized-state simulationof continuous dynamics, the Functional MockupInterface (FMI), classical (Runge-Kutta)simulation of continuous dynamics, modal models(hybrid systems), discrete-time (periodic)systems, and algebraic loop solvers. CyPhySimprovides a graphical editor, an XML file syntaxfor models, and an open API for programmaticconstruction of models.'
 note: 'Presented as a demo at <ahref="http://ljk.imag.fr/hscc2015/" >HSCC 2015,Seattle</a>.'
 year: '2015'

@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/FisherJacobsonLeeMurraySangiovanniVincentelli13_ICyPhyExecutiveReviewNovember192013'
 abstract: 'A review of the accomplishments of the iCyPhyCenter's first year and plans for the coming year.'
 note: 'Presented at the <ahref="/conferences/13/annual/index.htm" >2013iCyPhy Annual Executive Review</a>.'
 year: '2013'

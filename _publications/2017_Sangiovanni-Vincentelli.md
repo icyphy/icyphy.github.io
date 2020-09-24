@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/SangiovanniVincentelli17_PlatformBasedDesignPBDMethodologyWithContracts'
 abstract: 'Presented at the Siemens meeting.'
 year: '2017'
 month: 'September'

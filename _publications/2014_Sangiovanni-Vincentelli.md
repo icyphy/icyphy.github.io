@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/SangiovanniVincentelli14_ICyPhyExecutiveReviewDesignMethodologyRequirementFormalization'
 abstract: '(No abstract.)'
 year: '2014'
 month: 'December'

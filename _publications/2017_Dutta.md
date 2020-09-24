@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/Dutta17_UrbanScaleSensingWithSignpost'
 abstract: '(No abstract.)'
 note: 'Presented to Denso during a teleconference.'
 year: '2017'

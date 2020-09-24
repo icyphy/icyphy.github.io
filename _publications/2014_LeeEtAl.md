@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/LeeMurraySangiovanniVincentelli14_ICyPhyActivitiesAccomplishments'
 abstract: '(No abstract.)'
 year: '2014'
 month: 'December'

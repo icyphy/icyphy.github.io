@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/LeeGreenbergTeam13_SysMLSemantics'
 abstract: '(No abstract.)'
 note: 'iCyPhy Executive Review, Almaden Research Center,San Jose, CA.'
 year: '2013'

@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/BenvenisteCaillaudNickovicPasseroneRacletReinkemeier13_ContractsForSystemsDesign'
 abstract: '(No abstract.)'
 year: '2013'
 journal: 'Proceedings of IEEE'

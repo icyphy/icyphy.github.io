@@ -1,6 +1,5 @@
 ---
 collection: publications
-url: 'http://icyphy.org/publications/DuttaLeeSeshiaSangiovanniVincentelli16_theNewICyPhyIndustrialCyberPhysicalSystems'
 abstract: 'The goal of iCyPhy (pronounced eye-sigh-fie) is toconduct pre-competitive research on architecturesand design, modeling, and analysis techniques forcyber-physical systems, with emphasis onindustrial applications. Cyber-physical systemsintegrate computing, networking, and physicalcomponents. Applications include transportationsystems, automation, security, smart buildings,smart cities, medical systems, energy generationand distribution, water distribution, agriculture,military systems, process control, assetmanagement, and robotics.'
 note: 'Presented at the SwarmLab 2016 Fall Retreat,Berkeley.'
 year: '2016'
