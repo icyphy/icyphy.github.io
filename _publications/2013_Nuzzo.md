@@ -5,7 +5,7 @@ note: 'Presented at the <ahref="/conferences/13/watson/index.htm" >iCyPhyJune 20
 year: '2013'
 month: 'June'
 day: '19'
-title: 'Contract-Based Methodology  for Cyber-PhysicalSystem Design'
+title: 'Contract-Based Methodology  for Cyber-Physical System Design'
 author: 'Pierluigi Nuzzo'
 ENTRYTYPE: 'presentation'
 ID: 'Nuzzo13_ContractBasedMethodologyforCyberPhysicalSystemDesign'

@@ -5,7 +5,7 @@ note: 'Presented at the <ahref="http://www.icyphy.org/conferences/12/kickoff/ind
 year: '2012'
 month: 'November'
 day: '30'
-title: 'Platform-Based Design of Aircraft Electric PowerSystems Using Contracts'
+title: 'Platform-Based Design of Aircraft Electric Power Systems Using Contracts'
 author: 'Pierluigi Nuzzo, Alberto Sangiovanni-Vincentelli'
 ENTRYTYPE: 'presentation'
 ID: 'NuzzoSangiovanniVincentelli12_PlatformBasedDesignOfAircraftElectricPowerSystemsUsing'

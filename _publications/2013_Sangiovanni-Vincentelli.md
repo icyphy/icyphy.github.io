@@ -5,7 +5,7 @@ note: 'Presented at the <ahref="/conferences/13/watson/index.htm" >iCyPhyJune 20
 year: '2013'
 month: 'June'
 day: '19'
-title: 'Cyber Physical Systems Opportunities andChallenges:The iCyPhy Research Agenda'
+title: 'Cyber Physical Systems Opportunities and Challenges:The iCyPhy Research Agenda'
 author: 'Alberto Sangiovanni-Vincentelli'
 ENTRYTYPE: 'presentation'
 ID: 'SangiovanniVincentelli13_CyberPhysicalSystemsOpportunitiesChallengesTheICyPhy'

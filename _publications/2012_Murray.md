@@ -5,7 +5,7 @@ note: 'Presented at the <ahref="http://www.icyphy.org/conferences/12/kickoff/ind
 year: '2012'
 month: 'November'
 day: '29'
-title: 'Correct-by-Construction Synthesis of ReactiveControl Protocols'
+title: 'Correct-by-Construction Synthesis of Reactive Control Protocols'
 author: 'Richard Murray'
 ENTRYTYPE: 'presentation'
 ID: 'Murray12_CorrectbyConstructionSynthesisOfReactiveControlProtocols'

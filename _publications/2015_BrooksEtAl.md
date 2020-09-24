@@ -5,7 +5,7 @@ note: 'Presented as a demo at <ahref="http://ljk.imag.fr/hscc2015/" >HSCC 2015,S
 year: '2015'
 month: 'April'
 day: '14'
-title: 'Demo: CyPhySim --- A Cyber-Physical SystemsSimulator'
+title: 'Demo: CyPhySim --- A Cyber-Physical Systems Simulator'
 author: 'Christopher Brooks, Edward A. Lee, DavidLorenzetti, Thierry Nouidui, Michael Wetter'
 ENTRYTYPE: 'presentation'
 ID: 'BrooksLeeLorenzettiNouiduiWetter15_DemoCyPhySimCyberPhysicalSystemsSimulator'

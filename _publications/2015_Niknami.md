@@ -4,7 +4,7 @@ abstract: 'We present recent work on the quantized-statesystem (QSS) simulation 
 year: '2015'
 month: 'October'
 day: '16'
-title: 'Code Generation for Quantized-State System (QSS)Simulation'
+title: 'Code Generation for Quantized-State System (QSS) Simulation'
 author: 'Mehrdad Niknami'
 ENTRYTYPE: 'presentation'
 ID: 'Niknami15_CodeGenerationForQuantizedStateSystemQSSSimulation'
