@@ -20,10 +20,13 @@ tiles-count: 5
 
 # collections
 collections:
+    people:
+        output: true
+        permalink: /:collection/:path/
     publications:
         output: true
         permalink: /:collection/:path/
-    people:
+    presentations:
         output: true
         permalink: /:collection/:path/
         
@@ -52,3 +55,9 @@ defaults:
       type: publications
     values:
       layout: pub 
+  -
+    scope:
+      path: ""
+      type: presentations
+    values:
+      layout: presentation
