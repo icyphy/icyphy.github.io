@@ -2,7 +2,10 @@
 <a href="{{base_path}}{{post.url}}"><b>{{ post.title }}</b></a><br>
 
 {% if post.journal != nil %}
-<b>Conference/Journal</b>: {{ post.journal }} <br>
+<b>Journal</b>: {{ post.journal }} <br>
+{% endif %}
+{% if post.booktitle != nil %}
+<b>In</b>: {{ post.booktitle }} <br>
 {% endif %}
 
 <b>Publication Date</b>: {% if post.month != nil %} {{post.month | append: ", "}} {% endif %}{{ post.year }} <br>
