@@ -27,7 +27,7 @@
         <!-- Citation -->
         <p>
         <b>Citation</b><br>
-        {{ page.author }}. "{{ page.title }}". {% if page.journal %}<i>{{ page.journal }}</i>, {% endif %}{% if
+        {{ page.author }}. "{{ page.title }}". {% if page.journal %}<i>{{ page.journal }}</i>, {% endif %}{% if page.booktitle %}<i>{{ page.booktitle }}</i>, {% endif %}{% if
         page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages
         %}:{{page.pages}}{% endif %}, {% endif %}{% if page.month %}{{ page.month }} {% endif %}{{ page.year }}.
         </p>
@@ -55,7 +55,7 @@
                 HTML <br>
                 <pre>
                 <code>
-{{ page.author }}. "&lt;a href="{{ site.url }}{{ page.url }}"&gt;{{ page.title }}&lt;/a&gt;". {% if page.journal %}&lt;i&gt;{{ page.journal }}&lt;/i&gt;, {% endif %}{% if
+{{ page.author }}. "&lt;a href="{{ site.url }}{{ page.url }}"&gt;{{ page.title }}&lt;/a&gt;". {% if page.journal %}&lt;i&gt;{{ page.journal }}&lt;/i&gt;, {% endif %}{% if page.booktitle %}&lt;i&gt;{{ page.booktitle }}&lt;/i&gt;, {% endif %}{% if
 page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages
 %}:{{page.pages}}{% endif %}, {% endif %}{% if page.month %}{{ page.month }} {% endif %}{{ page.year }}.
                 </code>
@@ -65,7 +65,7 @@ page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %
                 Plain Text <br>
                 <pre>
                 <code>
-{{ page.author }}. "{{ page.title }}". {% if page.journal %}<i>{{ page.journal }}</i>, {% endif %}{% if
+{{ page.author }}. "{{ page.title }}". {% if page.journal %}<i>{{ page.journal }}</i>, {% endif %}{% if page.booktitle %}<i>{{ page.booktitle }}</i>, {% endif %}{% if
 page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages
 %}:{{page.pages}}{% endif %}, {% endif %}{% if page.month %}{{ page.month }} {% endif %}{{ page.year }}.
                 </code>
@@ -79,6 +79,7 @@ page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %
 &#9;author = &#123;{{ page.author }}&#125;,
 &#9;title = &#123;{{ page.title }}&#125;,<br>
 {%- if page.journal -%}&#9;journal = &#123;{{ page.journal }}&#125;,<br>{%- endif -%}
+{%- if page.booktitle -%}&#9;booktitle = &#123;{{ page.booktitle }}&#125;,<br>{%- endif -%}
 {%- if page.volume -%}&#9;volume = &#123;{{ page.volume }}&#125;,<br>{%- endif -%}
 {%- if page.number -%}&#9;number = &#123;{{ page.number }}&#125;,<br>{%- endif -%}
 {%- if page.pages -%}&#9;pages = &#123;{{page.pages }}&#125;,<br>{%- endif -%}
