@@ -55,7 +55,9 @@
                 HTML <br>
                 <pre>
                 <code>
-{{ page.author }}. "&lt;a href="{{ site.url }}{{ page.url }}"&gt;{{ page.title }}&lt;/a&gt;". {% if page.journal %}&lt;i&gt;{{ page.journal }}&lt;/i&gt;, {% endif %}{% if page.booktitle %}&lt;i&gt;{{ page.booktitle }}&lt;/i&gt;, {% endif %}{% if
+{{ page.author }}.
+"&lt;a href="{{ site.url }}{{ page.url }}"&gt;{{ page.title }}&lt;/a&gt;".
+{% if page.journal %}&lt;i&gt;{{ page.journal }}&lt;/i&gt;, {% endif %}{% if page.booktitle %}&lt;i&gt;{{ page.booktitle }}&lt;/i&gt;, {% endif %}{% if
 page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages
 %}:{{page.pages}}{% endif %}, {% endif %}{% if page.month %}{{ page.month }} {% endif %}{{ page.year }}.
                 </code>
@@ -65,7 +67,9 @@ page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %
                 Plain Text <br>
                 <pre>
                 <code>
-{{ page.author }}. "{{ page.title }}". {% if page.journal %}<i>{{ page.journal }}</i>, {% endif %}{% if page.booktitle %}<i>{{ page.booktitle }}</i>, {% endif %}{% if
+{{ page.author }}.
+"{{ page.title }}".
+{% if page.journal %}<i>{{ page.journal }}</i>, {% endif %}{% if page.booktitle %}<i>{{ page.booktitle }}</i>, {% endif %}{% if
 page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages
 %}:{{page.pages}}{% endif %}, {% endif %}{% if page.month %}{{ page.month }} {% endif %}{{ page.year }}.
                 </code>
@@ -84,7 +88,8 @@ page.volume %}{{ page.volume }}{% if page.number %}({{ page.number }}){% endif %
 {%- if page.number -%}&#9;number = &#123;{{ page.number }}&#125;,<br>{%- endif -%}
 {%- if page.pages -%}&#9;pages = &#123;{{page.pages }}&#125;,<br>{%- endif -%}
 {%- if page.month -%}&#9;month = &#123;{{ page.month }}&#125;,<br>{%- endif -%}
-&#9;year = &#123;{{ page.year }}&#125;,
+&#9;year = &#123;{{ page.year }}&#125;,<br>
+{%- if page.doi -%}&#9;doi = &#123;{{ page.doi }}&#125;,<br>{%- endif -%}
 &#9;abstract = &#123;{{ page.abstract }}&#125;,
 &#9;URL = &#123;{{ site.url }}{{ page.url }}&#125;
 &#125;
