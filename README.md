@@ -31,7 +31,7 @@ An example entry is:
 ---
 collection: publications
 author: 'Martin A. Sehr, Marten Lohstroh, Mathew Weber, Ines Ugalde, Martin Witte, Joerg Neidig, Stephan Hoeme, Mehrdad Niknami, and Edward A. Lee'
-title: "Programmable Logic Controllers in the Context of Industry 4.0"
+title: 'Programmable Logic Controllers in the Context of Industry 4.0'
 journal: 'IEEE Transactions on Industrial Informatics'
 volume: '17'
 number: '5'
@@ -46,6 +46,3 @@ doi: '10.1109/TII.2020.3007764'
 # Credits
 
 This Jekyl site is based on the "Forty" theme by [HTML5 UP](https://html5up.net/).  
-
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
-
