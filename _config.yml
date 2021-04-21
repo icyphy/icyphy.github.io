@@ -1,7 +1,7 @@
 # site settings
 title: iCyPhy
 subtitle: Industrial Cyber-Physical Systems
-# email: info@icyphy.org
+email: eal [at] berkeley [dot] edu 
 description: Pre-competitive research on architectures and design,<br/> modeling, and analysis techniques for cyber-physical systems,<br/> with emphasis on industrial applications.
 copyright_year: 2021
 baseurl: # the subpath of your site, e.g. /blog
@@ -16,7 +16,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 6
 
 # collections
 collections:

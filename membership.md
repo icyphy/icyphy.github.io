@@ -6,7 +6,7 @@ landing-title: 'iCyPhy Membership'
 image: null
 author: null
 show_tile: true
-order: 4
+order: 5
 nav-menu: true
 ---
 
