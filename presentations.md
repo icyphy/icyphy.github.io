@@ -16,6 +16,27 @@ show_tile: true
 	<div class="inner">
 
 <!-- Content -->
+
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZ1P70Rz5sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>10-Minute Demonstration of Lingua Franca</h3>
+		<p>by Shaokai Lin, UC Berkeley, for the NSP CPS PI Meeting, May 2020</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-C_s8JUfbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>90-Second Introduction to the Lingua Franca Project</h3>
+		<p>by Prof. Edward A. Lee, UC Berkeley, for the NSP CPS PI Meeting, May 2020</p>
+	</div>
+</div>
+
 <div class="row">
 	<div class="6u 12u$(small)">
         <iframe class="yt-video" src="https://www.youtube.com/embed/SpgZLtVghIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
