@@ -17,6 +17,7 @@ show_tile: true
 
 <!-- Content -->
 
+<hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZ1P70Rz5sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,6 +28,7 @@ show_tile: true
 	</div>
 </div>
 
+<hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-C_s8JUfbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,6 +39,7 @@ show_tile: true
 	</div>
 </div>
 
+<hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
         <iframe class="yt-video" src="https://www.youtube.com/embed/SpgZLtVghIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
