@@ -1,8 +1,8 @@
 ---
-last_name: 'Incer Romeo'
-first_name: 'Íñigo'
+last_name: 'Incer'
+first_name: 'Inigo'
 role: 'grad'
 description: 'Advisor: Prof. Sangiovanni-Vincentelli'
 photo: 'inigo.png'
-website: 'javascript:;'
+website: 'https://iincer.github.io'
 ---
