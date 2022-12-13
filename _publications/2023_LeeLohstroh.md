@@ -3,8 +3,8 @@ collection: publications
 ID: 'LeeLohstroh:22:GeneralizingLET'
 author: 'Edward A. Lee and Marten Lohstroh'
 title: 'Generalizing Logical Execution Time'
-booktitle: 'Principles of Systems Design - Essays Dedicated to Thomas A. Hensinzer on the Occasion of his 60th Birthday'
-editor: 'Krishnendu Chaterjee, Laurent Doyen, Rupak Mujumdar, and Jean-Francois Raskin'
+booktitle: 'Principles of Systems Design'
+editor: 'Jean-Francois Raskin and Krishnendu Chaterjee'
 volume: 'LNCS 13660'
 month: 'July'
 publisher: 'Springer'
@@ -12,6 +12,7 @@ abstract: 'In the Logical Execution Time (LET) principle, concurrent software co
 yield more deterministic timing when they interact with their physical environment through sensors and actuators. This paper shows through a series of examples that the LET principle can be realized flexibly and generalized using the Lingua Franca coordination language.'
 paperurl: 'https://ptolemy.berkeley.edu/~eal/publications/LeeLohstroh_GeneralizingLET.pdf'
 year: '2023'
+doi: '10.1007/978-3-031-22337-2_8'
 ENTRYTYPE: 'inproceedings'
 ---
 
