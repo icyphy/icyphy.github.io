@@ -47,7 +47,7 @@
                 APA <br>
                 <pre>
                 <code>
-{{ page.author }}. ({{ page.year }}). {{ page.title }}{% if page.type %} ({{ page.type }}){% endif %}{% if page.school %}, {{ page.school }}{% endif %}. {% if page.journal %}In <i>{{ page.journal }}</i>{% if page.volume %}, {{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages %}, {{ page.pages }}{% endif %}.{% endif %}{% endif %} {% if page.URL %} Retrieved from {{ page.URL }}{% endif %}                    
+{{ page.author }}. ({{ page.year }}). {{ page.title }}{% if page.booktitle %}. In <i>{{ page.booktitle }}</i>{% endif %}{% if page.type %} ({{ page.type }}){% endif %}{% if page.school %}, {{ page.school }}{% endif %}. {% if page.journal %}In <i>{{ page.journal }}</i>{% if page.volume %}, {{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages %}, {{ page.pages }}{% endif %}.{% endif %}{% endif %} {% if page.doi %}doi:{{ page.doi }}.{% endif %} {% if page.URL %} Retrieved from {{ page.URL }}{% endif %}                    
                 </code>
                 </pre>
             </li>
@@ -55,7 +55,7 @@
                 MLA <br>
                 <pre>
                 <code>
-{{ page.author }}. "{{ page.title }}." {% if page.type %}{{ page.type }}, {% endif %}{% if page.school %}{{ page.school }}, {% endif %}{% if page.year %}{{ page.year }}.{% endif %} {% if page.journal %}<i>{{ page.journal }}</i>, {% if page.volume %}vol. {{ page.volume }}{% if page.number %}, no. {{ page.number }}{% endif %}{% if page.pages %}, pp. {{ page.pages }}{% endif %}.{% endif %}{% endif %} {% if page.URL %} Accessed {{ page.access_date }}. {{ page.URL }}.{% endif %}
+{{ page.author }}. "{{ page.title }}." {% if page.booktitle %}<i>{{ page.booktitle }}</i>, {% endif %}{% if page.type %}{{ page.type }}, {% endif %}{% if page.school %}{{ page.school }}, {% endif %}{% if page.year %}{{ page.year }}.{% endif %} {% if page.journal %}<i>{{ page.journal }}</i>, {% if page.volume %}vol. {{ page.volume }}{% if page.number %}, no. {{ page.number }}{% endif %}{% if page.pages %}, pp. {{ page.pages }}{% endif %}.{% endif %}{% endif %} {% if page.doi %}doi:{{ page.doi }}.{% endif %} {% if page.URL %} Accessed {{ page.access_date }}. {{ page.URL }}.{% endif %}                    
                 </code>
                 </pre>
             </li>
@@ -63,7 +63,7 @@
                 Chicago <br>
                 <pre>
                 <code>
-{{ page.author }}. "{{ page.title }}." {% if page.type %}{{ page.type }}, {% endif %}{% if page.school %}{{ page.school }}, {% endif %}{% if page.year %}{{ page.year }}.{% endif %} {% if page.journal %}In <i>{{ page.journal }}</i>{% if page.volume %}, vol. {{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages %}: {{ page.pages }}{% endif %}.{% endif %}{% endif %} {% if page.URL %} Accessed at {{ page.URL }}.{% endif %}
+{{ page.author }}. "{{ page.title }}." {% if page.booktitle %}<i>{{ page.booktitle }}</i>, {% endif %}{% if page.type %}{{ page.type }}, {% endif %}{% if page.school %}{{ page.school }}, {% endif %}{% if page.year %}{{ page.year }}.{% endif %} {% if page.journal %}In <i>{{ page.journal }}</i>{% if page.volume %}, vol. {{ page.volume }}{% if page.number %}({{ page.number }}){% endif %}{% if page.pages %}: {{ page.pages }}{% endif %}.{% endif %}{% endif %} {% if page.doi %}doi:{{ page.doi }}.{% endif %} {% if page.URL %} Accessed at {{ page.URL }}.{% endif %}                    
                 </code>
                 </pre>
             </li>
