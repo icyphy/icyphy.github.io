@@ -1,6 +1,6 @@
 ---
 collection: publications
-ID: 'Lee:23:Deep'
+ID: 'Lee:24:Certainty'
 author: 'Edward A. Lee'
 title: 'Certainty vs. Intelligence'
 booktitle: 'Bridging the Gap Between AI and Reality. AISoLA 2024.'
