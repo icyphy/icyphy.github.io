@@ -19,7 +19,7 @@ nav-menu: true
         <header class="major">
             <h1>iCyPhy Membership</h1>
         </header>
-        <p>The iCyPhy Center is interested in forming and maintaining meaningful relationships with industry, small businesses, and government agencies. Solidification of the research interests of a member of the Center is done through a membership agreement that outlines the roles of the member and university through the period of the relationship. Our current members are: <a href="https://www.denso.com/global/en/" target="_blank">Denso</a>, <a href="https://new.siemens.com/us/en.html" target="_blank">Siemens</a>, and <a href="https://www.toyota.com/" target="_blank">Toyota</a></p>
+        <p>The iCyPhy Center is interested in forming and maintaining meaningful relationships with industry, small businesses, and government agencies. Solidification of the research interests of a member of the Center is done through a membership agreement that outlines the roles of the member and university through the period of the relationship.
 
         <p>Our goal as a Center is to find interested partners who have identified iCyPhy as a general research area, and are willing to start a relationship based on the iCyPhy research goals and the benefits received through interaction. iCyPhy members have access to world-class researchers and visionaries, and can leverage government-funded research that is performed by the Center. They receive feedback on the progress of the Center through formal reviews and participate in the setting of goals and research directions.</p>
 
