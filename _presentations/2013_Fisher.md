@@ -9,5 +9,4 @@ title: 'iCyPhy Introduction and Project Plan'
 author: 'Amit Fisher'
 ENTRYTYPE: 'presentation'
 ID: 'Fisher13_ICyPhyIntroductionProjectPlan'
-paperurl: []
 ---

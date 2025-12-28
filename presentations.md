@@ -20,6 +20,150 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/SeRfpLP2VwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Working with Deadlines in Lingua Franca</h3>
+		<p>by Edward A. Lee, UC Berkeley, for Lingua Franca weekly meeting, Sep. 24, 2025</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/eDBOwr5iD3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Decentralized Coordination in Federated Lingua Franca</h3>
+		<p>by Edward A. Lee, UC Berkeley, for Lingua Franca weekly meeting, Nov. 20, 2024</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/3lHmiWOedHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Trading off Consistency and Availability using Lingua Franca</h3>
+		<p>by Edward A. Lee, UC Berkeley, for Mulligan's Stew, Nov. 8, 2024</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/OA_GknXKe4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Deterministic Concurrency in CPS</h3>
+		<p>by Edward A. Lee, UC Berkeley, SIGBED Distinguished Lecture, online, Jun. 15, 2023</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/GT4NJ5XnEt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Deterministic Concurrency and the Lingua Franca Coordination Language</h3>
+		<p>by Edward A. Lee, UC Berkeley, Invited talk: CEA-LIST, Saclay, Paris, Apr. 18, 2023</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/C7k7ckGubT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Trading off Consistency and Availability in Cyber-Physical Systems</h3>
+		<p>by Edward A. Lee, UC Berkeley, Time Appliances Project(TAP), online, Feb. 15, 2023</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/M1tl3HqLUzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Trading off Consistency and Availability in Cyber-Physical Systems</h3>
+		<p>by Edward A. Lee, UC Berkeley, M&#228;lardalen University, V&#228;steras, Sweden, Feb. 10, 2023</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/20EKKsdWTQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Verifying Parallel and Distributed Systems: The Observer Problem</h3>
+		<p>by Edward A. Lee, UC Berkeley, M&#228;lardalen University, V&#228;steras, Sweden, Feb. 9, 2023</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/VbQPdTZjsZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Trading off Consistency and Availability in Cyber-Physical Systems</h3>
+		<p>by Edward A. Lee, UC Berkeley, ISAE Toulouse, France, Jan. 26, 2023</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/WlQ8oXG1K8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Time for All Programs, Not Just Real-Time Programs</h3>
+		<p>by Edward A. Lee, UC Berkeley, ISoLA, Rhodes, Greece, Oct. 25, 2021</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/aTazoPeotcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Keynote on Determinism</h3>
+		<p>by Edward A. Lee, UC Berkeley, IBM PREVAIL 2021, online, Oct. 20, 2021</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/F3ejsAoyEu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Keynote on the CAL Theorem</h3>
+		<p>by Edward A. Lee, UC Berkeley, <a href="http://ds-rt.com/2021/home">Symp. on Distributed Simulation and Real Time Applications</a> (DS-RT), online, Sep. 27, 2021</p>
+	</div>
+</div>
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
+<iframe width="560" height="315" src="https://youtu.be/Dm92rsguzzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Keynote on Determinism</h3>
+		<p>by Edward A. Lee, UC Berkeley, <a href="https://rtcsa2021.github.io">RTCSA</a>, online, Aug. 19, 2021</p>
+	</div>
+</div>
+
+
+<hr class="major"/>
+<div class="row">
+	<div class="6u 12u$(small)">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZ1P70Rz5sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">

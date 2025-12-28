@@ -7,5 +7,4 @@ title: 'iCyPhy Executive Review, November 19, 2013'
 author: 'Amit Fisher, Clas Jacobson, Edward A. Leeand Richard Murray, AlbertoSangiovanni-Vincentelli'
 ENTRYTYPE: 'presentation'
 ID: 'FisherJacobsonLeeMurraySangiovanniVincentelli13_ICyPhyExecutiveReviewNovember192013'
-paperurl: []
 ---
