@@ -20,7 +20,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/SeRfpLP2VwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SeRfpLP2VwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Working with Deadlines in Lingua Franca</h3>
@@ -31,7 +31,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/eDBOwr5iD3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eDBOwr5iD3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Decentralized Coordination in Federated Lingua Franca</h3>
@@ -42,7 +42,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/3lHmiWOedHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lHmiWOedHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Trading off Consistency and Availability using Lingua Franca</h3>
@@ -53,7 +53,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/OA_GknXKe4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA_GknXKe4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Deterministic Concurrency in CPS</h3>
@@ -64,7 +64,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/GT4NJ5XnEt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GT4NJ5XnEt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Deterministic Concurrency and the Lingua Franca Coordination Language</h3>
@@ -75,7 +75,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/C7k7ckGubT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C7k7ckGubT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Trading off Consistency and Availability in Cyber-Physical Systems</h3>
@@ -86,7 +86,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/M1tl3HqLUzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1tl3HqLUzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Trading off Consistency and Availability in Cyber-Physical Systems</h3>
@@ -97,7 +97,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/20EKKsdWTQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20EKKsdWTQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Verifying Parallel and Distributed Systems: The Observer Problem</h3>
@@ -108,7 +108,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/VbQPdTZjsZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbQPdTZjsZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Trading off Consistency and Availability in Cyber-Physical Systems</h3>
@@ -119,7 +119,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/WlQ8oXG1K8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WlQ8oXG1K8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Time for All Programs, Not Just Real-Time Programs</h3>
@@ -130,7 +130,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/aTazoPeotcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTazoPeotcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Keynote on Determinism</h3>
@@ -141,7 +141,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/F3ejsAoyEu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F3ejsAoyEu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Keynote on the CAL Theorem</h3>
@@ -152,7 +152,7 @@ show_tile: true
 <hr class="major"/>
 <div class="row">
 	<div class="6u 12u$(small)">
-<iframe width="560" height="315" src="https://youtu.be/Dm92rsguzzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm92rsguzzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Keynote on Determinism</h3>
