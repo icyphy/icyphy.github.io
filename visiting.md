@@ -21,7 +21,7 @@ show_tile: false
 
             <p>A VIF is eligible for all the features the University identifies in the Visiting Industrial Fellow program, such as a University ID card, which gives access to many general facilities commonly available to University employees (such as libraries and sports facilities). VIFs will be provided with a desk, telephone access, and computer networking services. VIFs are also welcome to participate in University and iCyPhy seminars and colloquia.</p>
 
-            <a href="membership.html" class="button">Go Back</a>
+            <a href="/membership/" class="button">Go Back</a>
 
         </div>
     </section>

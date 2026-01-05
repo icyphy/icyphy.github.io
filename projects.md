@@ -13,7 +13,7 @@ order: 2
 <!-- One -->
 <section id="one">
 	<div class="inner">
-				<p>iCyPhy projects are open, collaborative efforts, often directly involving personnel from member companies. iCyPhy is committed to open <a href="publications.html">publication</a> and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
+				<p>iCyPhy projects are open, collaborative efforts, often directly involving personnel from member companies. iCyPhy is committed to open <a href="/publications/">publication</a> and open-source release of software and hardware designs using a BSD-style license and will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is necessary for the results to have impact.</p>
 	</div>
 </section>
 
@@ -35,8 +35,9 @@ order: 2
 			</div>
 		</div>
 	</section>
+	<!-- OBSOLETE
 	<section>
-		<a href="https://openpapr.berkeley.edu/our-solution/" class="image">
+		<a href="https://.berkeley.edu/our-solution/" class="image">
 			<img src="{% link assets/images/projects/OpenPAPR.png %}" alt="Powered purifying-air respirator" data-position="top center" />
 		</a>
 		<div class="content">
@@ -51,6 +52,7 @@ order: 2
 			</div>
 		</div>
 	</section>
+	-->
 	<section>
 		<a href="https://en.wikipedia.org/wiki/Montparnasse_derailment" class="image">
 			<img src="{% link assets/images/projects/uclid5.jpg %}" alt="Train wreck at Gare Montparnasse in 1895" data-position="top center" />
@@ -62,7 +64,7 @@ order: 2
 				</header>
 				<p>Formal methods for ensuring safety and correctness of systems are facing a confluence of transformative trends. First, systems are increasingly heterogeneous, comprising some combination of hardware, software, networking, and physical processes. Second, these systems are increasingly being designed with data-driven methods. Third, automated reasoning techniques based on deduction are being combined with new techniques for inductive inference and machine learning. UCLID5 is a new system for formal modeling, verification, and synthesis that addresses the challenges and opportunities arising from this confluence. UCLID5 can model heterogeneous computational systems, provides term-level abstraction supported by satisfiability modulo theories (SMT) solvers, enables compositional reasoning, and implements the paradigm of verification by reduction to synthesis, leveraging the advances in algorithmic synthesis and machine learning.</p>
 				<ul class="actions">
-					<li><a href="https://cse.iitk.ac.in/users/spramod/papers/memocode18.pdf" class="button">Learn more</a></li>
+					<li><a href="https://github.com/uclid-org/uclid" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
